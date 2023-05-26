@@ -1,8 +1,7 @@
 {
     "version": "ApoImpf10",
     "data": [
-      {
-         {"paragraphs": [
+       {"paragraphs": [
         {
           "qas": [
             {
@@ -51,7 +50,7 @@
           "context": "Gelbfieber: Der Nachweis einer gültigen Gelbfieberimpfung bei der Einreise in Peru ist derzeit nach Auskunft der peruanischen Einreisebehörden nicht vorgeschrieben. Es besteht kein Gelbfieberrisiko in den Küstengebieten und im Hochland oberhalb von 2.300 m. Bei Reisen in die ausgewiesenen Gelbfieber-Endemiegebiete Perus, insbesondere für das gesamte peruanische Amazonasgebiet, wird allen Reisenden ab dem vollendeten 9. Lebensmonat eine Impfung jedoch dringend empfohlen. Falls Sie jedoch nach Brasilien weiterreisen oder von dort kommen, müssen Sie bei Ein- und Ausreise eine Gelbfieberimpfung nachweisen, da die Impfung in Brasilien obligatorisch ist. Aus Peru kommend kann die Impfung zudem bei Weiterreise in andere Drittländer verlangt werden. Der Schutz gegen Gelbfieber besteht nach einer Impfung für etwa 10 Jahre, die Impfung wird in den gelben Impfausweis eingetragen."
         }
       ],
-      "title": "ImpfenPeru
+      "title": "ImpfenPeru"
     }
     ]
   }
