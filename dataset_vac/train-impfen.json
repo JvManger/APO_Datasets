@@ -118,22 +118,6 @@
           {
             "qas": [
               {
-                "id": "ImpfenThailand_70",
-                "question": "Auf welche Kranken ist in Thailand noch zu achten?",
-                "answers": [
-                  {
-                    "text": "Die Japanische Enzephalitis ist bisher nur im asiatischen Kontinent vertreten. Es handelt sich um eine klassische Virusinfektion, die von infizierten Mücken übertragen wird.",
-                    "answer_start": 0
-                  }
-                ]
-              }
-            ],
-            "context": "Die Japanische Enzephalitis ist bisher nur im asiatischen Kontinent vertreten. Es handelt sich um eine klassische Virusinfektion, die von infizierten Mücken übertragen wird. Die Moskitos sind eher in den Abend- und Nachtstunden aktiv, somit ist in diesem Zeitfenster die Ansteckungsgefahr besonders hoch. Die Infektion führt zu einer Entzündung des Gehirns und ist sehr schwerwiegend. In Europa gibt es seit 2009 einen Totimpfstoff, der einen soliden Schutz bietet. Die Impfung muss insgesamt 3x verabreicht werden und bietet dann einen Langzeitschutz von 10 Jahren. Mit etwas 100 Euro ist es nicht ganz billig für den Privathaushalt, wobei auch die Krankenkassen die Impfung nicht zwingend übernehmen."
-          },
-
-          {
-            "qas": [
-              {
                 "id": "ImpfenThailand_80",
                 "question": "Gibt es eine Impfung gegen die Japanische Enzephalitis?",
                 "answers": [
